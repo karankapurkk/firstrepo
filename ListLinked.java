@@ -4,7 +4,6 @@ public class ListLinked {
 
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
-//		System.out.println(startTime);
 		LinkedList<Integer> ll = new LinkedList<Integer>();
 		for (int i = 0; i < 1000; i++)
 		{
